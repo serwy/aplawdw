@@ -1,11 +1,16 @@
 # APLAWD Reference Markings
 
-This database provides 10945 text files containing
+This markings database provides 10945 text files containing
 the sample indices of glottal closure instants (GCIs).
+
+It was constructed as part of the Ph.D. research found in
+"Hilbert Phase Methods for Glottal Activity Detection" by
+Serwy 2017. A copy can be found at:
+    http://hdl.handle.net/2142/97304
 
 The database containing the speech and electroglottographic
 signals can be acquired at:
-http://www.commsp.ee.ic.ac.uk/~sap/resources/aplawdw/
+    http://www.commsp.ee.ic.ac.uk/~sap/resources/aplawdw/
 
 ![Screenshot](aw47e2.png)
 
