@@ -11,6 +11,9 @@ Serwy 2017. A copy can be found at:
 The database containing the speech and electroglottographic
 signals can be acquired at:
     http://www.commsp.ee.ic.ac.uk/~sap/resources/aplawdw/
+    
+The direct link can be found at:
+    https://www.commsp.ee.ic.ac.uk/~sap/uploads/data/aplawdw.zip
 
 ![Screenshot](aw47e2.png)
 
